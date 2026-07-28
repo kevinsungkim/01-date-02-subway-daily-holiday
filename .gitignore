@@ -150,6 +150,11 @@ activemq-data/
 # Environments
 .env
 .envrc
+
+# Keep only small portfolio samples in Git.
+data/*
+!data/sample/
+!data/sample/**
 .venv
 env/
 venv/
