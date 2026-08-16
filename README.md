@@ -225,7 +225,7 @@ python src/preprocess_subway_daily_holiday.py
 
 별도의 API 호출이나 API Key 입력 없이 저장소에 포함된 샘플 공휴일 master를 읽어 실행합니다.
 
-실행 결과는 다음 경로에 UTF-8 with BOM(`utf-8-sig`) CSV로 저장됩니다.
+실행 결과는 다음 경로에 UTF-8 with BOM (`utf-8-sig`) CSV로 저장됩니다.
 
 ```text
 data/sample/subway_daily_with_holiday_sample.csv
