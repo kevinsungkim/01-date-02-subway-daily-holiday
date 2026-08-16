@@ -1,4 +1,4 @@
-# subway_daily DATE PART 2: 공휴일 기준 덧씌우기
+# subway_daily | DATE PART 2: 공휴일 기준 덧씌우기
 
 ## 프로젝트 개요
 
